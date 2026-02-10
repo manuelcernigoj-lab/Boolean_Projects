@@ -1,0 +1,209 @@
+﻿Question Code;Value;Label
+banhhap;1;Strongly in favour
+banhhap;2;Somewhat in favour
+banhhap;3;Neither in favour nor against
+banhhap;4;Somewhat against
+banhhap;5;Strongly against
+ccgdbd;0;Extremely bad
+ccgdbd;1;1
+ccgdbd;2;2
+ccgdbd;3;3
+ccgdbd;4;4
+ccgdbd;5;5
+ccgdbd;6;6
+ccgdbd;7;7
+ccgdbd;8;8
+ccgdbd;9;9
+ccgdbd;10;Extremely good
+ccnthum;1;Entirely by natural processes
+ccnthum;2;Mainly by natural processes 
+ccnthum;3;About equally by natural processes and human activity 
+ccnthum;4;Mainly by human activity 
+ccnthum;5;Entirely by human activity 
+ccrdprs;0;Not at all
+ccrdprs;1;1
+ccrdprs;2;2
+ccrdprs;3;3
+ccrdprs;4;4
+ccrdprs;5;5
+ccrdprs;6;6
+ccrdprs;7;7
+ccrdprs;8;8
+ccrdprs;9;9
+ccrdprs;10;A great deal
+cflsenr;0;Not at all confident
+cflsenr;1;1
+cflsenr;2;2
+cflsenr;3;3
+cflsenr;4;4
+cflsenr;5;5
+cflsenr;6;6
+cflsenr;7;7
+cflsenr;8;8
+cflsenr;9;9
+cflsenr;10;Completely confident
+clmchng;1;Definitely changing
+clmchng;2;Probably changing
+clmchng;3;Probably not changing
+clmchng;4;Definitely not changing
+clmthgt1;1;Not at all
+clmthgt1;2;Very little
+clmthgt1;3;Some
+clmthgt1;4;A lot
+clmthgt1;5;A great deal
+clmthgt2;1;Not at all
+clmthgt2;2;Very little
+clmthgt2;3;Some
+clmthgt2;4;A lot
+clmthgt2;5;A great deal
+elgbio;1;A very large amount
+elgbio;2;A large amount
+elgbio;3;A medium amount
+elgbio;4;A small amount
+elgbio;5;None at all
+elgcoal;1;A very large amount
+elgcoal;2;A large amount
+elgcoal;3;A medium amount
+elgcoal;4;A small amount
+elgcoal;5;None at all
+elghydr;1;A very large amount
+elghydr;2;A large amount
+elghydr;3;A medium amount
+elghydr;4;A small amount
+elghydr;5;None at all
+elgngas;1;A very large amount
+elgngas;2;A large amount
+elgngas;3;A medium amount
+elgngas;4;A small amount
+elgngas;5;None at all
+elgnuc;1;A very large amount
+elgnuc;2;A large amount
+elgnuc;3;A medium amount
+elgnuc;4;A small amount
+elgnuc;5;None at all
+elgsun;1;A very large amount
+elgsun;2;A large amount
+elgsun;3;A medium amount
+elgsun;4;A small amount
+elgsun;5;None at all
+elgwind;1;A very large amount
+elgwind;2;A large amount
+elgwind;3;A medium amount
+elgwind;4;A small amount
+elgwind;5;None at all
+eneffap;0;Not at all likely
+eneffap;1;1
+eneffap;2;2
+eneffap;3;3
+eneffap;4;4
+eneffap;5;5
+eneffap;6;6
+eneffap;7;7
+eneffap;8;8
+eneffap;9;9
+eneffap;10;Extremely likely
+gvsrdcc;0;Not at all likely
+gvsrdcc;1;1
+gvsrdcc;2;2
+gvsrdcc;3;3
+gvsrdcc;4;4
+gvsrdcc;5;5
+gvsrdcc;6;6
+gvsrdcc;7;7
+gvsrdcc;8;8
+gvsrdcc;9;9
+gvsrdcc;10;Extremely likely
+inctxff;1;Strongly in favour
+inctxff;2;Somewhat in favour
+inctxff;3;Neither in favour nor against
+inctxff;4;Somewhat against
+inctxff;5;Strongly against
+lklmten;0;Not at all likely
+lklmten;1;1
+lklmten;2;2
+lklmten;3;3
+lklmten;4;4
+lklmten;5;5
+lklmten;6;6
+lklmten;7;7
+lklmten;8;8
+lklmten;9;9
+lklmten;10;Extremely likely
+lkredcc;0;Not at all likely
+lkredcc;1;1
+lkredcc;2;2
+lkredcc;3;3
+lkredcc;4;4
+lkredcc;5;5
+lkredcc;6;6
+lkredcc;7;7
+lkredcc;8;8
+lkredcc;9;9
+lkredcc;10;Extremely likely
+ownrdcc;0;Not at all likely
+ownrdcc;1;1
+ownrdcc;2;2
+ownrdcc;3;3
+ownrdcc;4;4
+ownrdcc;5;5
+ownrdcc;6;6
+ownrdcc;7;7
+ownrdcc;8;8
+ownrdcc;9;9
+ownrdcc;10;Extremely likely
+rdcenr;1;Never
+rdcenr;2;Hardly ever
+rdcenr;3;Sometimes
+rdcenr;4;Often
+rdcenr;5;Very often
+rdcenr;6;Always
+sbsrnen;1;Strongly in favour
+sbsrnen;2;Somewhat in favour
+sbsrnen;3;Neither in favour nor against
+sbsrnen;4;Somewhat against
+sbsrnen;5;Strongly against
+wrclmch;1;Not at all worried
+wrclmch;2;Not very worried
+wrclmch;3;Somewhat worried
+wrclmch;4;Very worried
+wrclmch;5;Extremely worried
+wrdpfos;1;Not at all worried
+wrdpfos;2;Not very worried
+wrdpfos;3;Somewhat worried
+wrdpfos;4;Very worried
+wrdpfos;5;Extremely worried
+wrdpimp;1;Not at all worried
+wrdpimp;2;Not very worried
+wrdpimp;3;Somewhat worried
+wrdpimp;4;Very worried
+wrdpimp;5;Extremely worried
+wrenexp;1;Not at all worried
+wrenexp;2;Not very worried
+wrenexp;3;Somewhat worried
+wrenexp;4;Very worried
+wrenexp;5;Extremely worried
+wrinspw;1;Not at all worried
+wrinspw;2;Not very worried
+wrinspw;3;Somewhat worried
+wrinspw;4;Very worried
+wrinspw;5;Extremely worried
+wrntdis;1;Not at all worried
+wrntdis;2;Not very worried
+wrntdis;3;Somewhat worried
+wrntdis;4;Very worried
+wrntdis;5;Extremely worried
+wrpwrct;1;Not at all worried
+wrpwrct;2;Not very worried
+wrpwrct;3;Somewhat worried
+wrpwrct;4;Very worried
+wrpwrct;5;Extremely worried
+wrtcfl;1;Not at all worried
+wrtcfl;2;Not very worried
+wrtcfl;3;Somewhat worried
+wrtcfl;4;Very worried
+wrtcfl;5;Extremely worried
+wrtratc;1;Not at all worried
+wrtratc;2;Not very worried
+wrtratc;3;Somewhat worried
+wrtratc;4;Very worried
+wrtratc;5;Extremely worried
